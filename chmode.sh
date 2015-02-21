@@ -10,3 +10,4 @@ filename=$2
 chmode $1 $2
 
 exits
+#change
